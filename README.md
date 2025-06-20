@@ -28,12 +28,4 @@ The original dataset contains:
 
 - `cleaned_data.csv`: Long-format cleaned dataset ready for analysis or modeling.
 
-## 🔧 Dependencies
 
-- Python 3.7+
-- Pandas
-- (Optional) openpyxl – if exporting to Excel
-
-Install dependencies:
-```bash
-pip install pandas openpyxl
