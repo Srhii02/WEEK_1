@@ -1,2 +1,4 @@
 pandas
-
+NumPy	
+Matplotlib	
+TensorFlow / Keras
