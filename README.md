@@ -83,6 +83,12 @@ Steps:
 Output:
 -------
 The script plots actual vs. predicted values for the training set.
+Missing values and non-numeric entries were handled and cleaned.
+Multiple machine learning models were trained and evaluated, with Gradient Boosting achieving R² > 95%.
+Feature importance was visualized to interpret key emission drivers.
+A custom PowerPoint presentation was auto-generated using the provided template.
+
+
 
 
 
