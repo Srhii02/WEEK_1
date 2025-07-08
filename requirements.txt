@@ -2,3 +2,8 @@ pandas
 NumPy	
 Matplotlib	
 TensorFlow / Keras
+seaborn
+scikit-learn
+xgboost
+python-pptx
+
